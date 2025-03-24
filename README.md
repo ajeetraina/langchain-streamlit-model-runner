@@ -1,4 +1,6 @@
 # 🤖 TechFusion 2025 Conference AI Assistant
+
+Source ~ https://gitlab.com/docker-sa/docker-model-runner/techfusion/
 > This version of the demo of "TechFusion 2025" is handling the conversational memory and the user session
 
 Welcome to the coolest conference companion you'll ever meet! This AI-powered chatbot knows everything about TechFusion 2025, where WebAssembly meets container orchestration and AI in an epic tech fusion.
